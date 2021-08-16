@@ -1,3 +1,5 @@
+Hello, this is an SSH connection
+
 This is the GitHub test files
 
-Another commit ftom Local machin
+Another commit from Local machin.
